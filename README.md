@@ -10,7 +10,7 @@ A quick video demo of the algorithm can be [found here](https://xxxxxx).
 ## Restrictions
 - This procedure runs in win_x64.
 - The file path should not contain Chinese characters.
-- Before using this process, please configure the python operating environment. Please create a new conda environment named "myenv", and then use "pip install -r requirements.txt" to install the dependencies.
+- Before using this procedure, please configure the python operating environment. Please create a new conda environment named "myenv", and then use "pip install -r requirements.txt" to install the dependencies.
 
 ## Data and software avaible
 You can obtain the sample point cloud data from the [link](https://xxxxxx).
