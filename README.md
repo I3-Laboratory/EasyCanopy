@@ -11,7 +11,7 @@ A quick video demo of the algorithm can be [found here](https://youtu.be/A-MN9hl
 - This software runs in win_x64.
 - The file path should not contain Chinese characters.
 - Before using this procedure, please configure the Python operating environment. Please create a new conda environment named "myenv", and then use "pip install -r requirements.txt" to install the dependencies.
-- This software will be used until December 31, 2025. If you want to continue using it, please contact the .[author](https://xxxxxx) to obtain a new version.
+- This software will be used until December 31, 2025. If you want to continue using it, please contact the [author](https://xxxxxx) to obtain a new version.
 
 ## Data and software available
 The sample point cloud data can be obtained from the [link](https://xxxxxx).
