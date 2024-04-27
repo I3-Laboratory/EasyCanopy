@@ -1,6 +1,6 @@
 # EasyCanopy
 This is an implementation of the submitted paper:  
-Zhang, W., Peng, X., Bai, T., Wang, H., Takata, D., Guo, W.,(2024), UAV based single lens stereoscopic photography method for phenotyping architecture traits of orchard trees.  
+Zhang, W., Peng, X., Bai, T., Wang, H., Takata, D., Guo, W.,(2024), UAV based single lens stereoscopic photography method for phenotyping architecture traits of orchard trees. Remote Sensing.  
 This paper introduces a UAV-based single-lens stereoscopic photography method for orchard tree canopy structure measurement. This procedure can extract 3D canopy structures from UAV aerial images.
 
 ## Video demo
